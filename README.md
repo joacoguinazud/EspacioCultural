@@ -1,1 +1,1 @@
-# EspacioCultural
+This is the second coursework of my Fundamentos de Algoritmos class, again done with another student. We were tasked with creating a class that defined cultural spaces in the city of Buenos Aires and then creating and testing a handful of related functions.
